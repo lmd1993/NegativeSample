@@ -1,3 +1,2 @@
-# NegativeSample
-Optimize negative sampling.
+# pos tagging
 Two dictionaries are bothe needed.
